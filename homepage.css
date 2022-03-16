@@ -1,0 +1,32 @@
+body {
+    background: white;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.pic {
+    height: 30%;
+    width: auto;
+    margin-top: 40px;
+}
+
+p{
+    margin-top: 40px;
+
+}
+#a {
+    margin-right: 230px;
+    
+}
+
+a:link {
+    color: black;
+  }
+  
+a:visited {
+    color: black;
+  }
+  
+a:hover {
+    color: rgb(255, 170, 184);
+  }
